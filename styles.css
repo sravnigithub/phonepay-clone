@@ -51,7 +51,6 @@ body {
   
   .image-iphone {
     width: 20%;
-    transform: rotate(20deg);
     position: absolute;
     right: 20%;
   }
